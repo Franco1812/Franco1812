@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Franco Nicolás Pagano  
 
 💻 Full-Stack Developer with 3+ years of experience building scalable web applications.  
-🚀 Specialized in **React.js, Next.js, Node.js, Java, SQL, NestJS and Angular**.  
+🚀 Specialized in **React.js, Next.js, Node.js, Java, SQL and NestJS*.  
 📍 Based in Buenos Aires, Argentina  
 
 ---
@@ -11,9 +11,9 @@
 {
 👂 My name is: Franco,  
 👨 Pronouns: He/Him,  
-⚡ I'm: 25 years old,  
-🌱 I’m currently learning: Next.js (App Router) & advanced backend patterns,  
-❤️ I love: Building web apps & exploring game dev with Unity,  
+⚡ I'm: 22 years old,  
+🌱 I’m currently learning: C++,  
+❤️ I love: Coffee and monster energy,  
 💻 Favorite stack: TypeScript + React + Node.js  
 }
 
