@@ -7,6 +7,7 @@
 ---
 
 ## 👤 About Me  
+<img src="leon-monster.png" alt="Chibi con café" width="150" align="right"/>
 
 {
 
@@ -16,7 +17,6 @@
 🌱 I’m currently learning: C++,  
 ❤️ I love: Coffee and monster energy,  
 💻 Favorite stack: TypeScript + React + Node.js  
-<img src="leon-monster.png" alt="Chibi con café" width="150" align="right"/>
 
 }
 
