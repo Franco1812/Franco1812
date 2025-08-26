@@ -11,9 +11,9 @@
 {
 
 👂 My name is: Franco,  
+<img src="leon-monster.png" alt="Chibi con café" width="200" align="right"/>
 👨 Pronouns: He/Him,  
 ⚡ I'm: 22 years old,                                                                  
-<img src="leon-monster.png" alt="Chibi con café" width="200" align="right"/>
 🌱 I’m currently learning: C++,  
 ❤️ I love: Coffee and monster energy,  
 💻 Favorite stack: TypeScript + React + Node.js  
