@@ -8,7 +8,7 @@
 
 ## 👤 About Me  
 
-<img src="leon-monster.png" alt="Chibi con café" width="200" align="right"/>
+<img src="leon-monster-bg.png" alt="Chibi con café" width="200" align="right"/>
 {
 
 👂 My name is: Franco,  
