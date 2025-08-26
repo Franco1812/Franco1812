@@ -9,9 +9,9 @@
 ## 👤 About Me  
 
 {
+<img src="leon-monster.png" alt="Chibi con café" width="200" align="right"/>
 
 👂 My name is: Franco,  
-<img src="leon-monster.png" alt="Chibi con café" width="200" align="right"/>
 👨 Pronouns: He/Him,  
 ⚡ I'm: 22 years old,                                                                  
 🌱 I’m currently learning: C++,  
