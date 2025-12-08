@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Franco Nicolás Pagano  
+<img width="190" height="233" alt="{FDD2F3FA-D99F-471B-A4F9-0817549DC7EE}" src="https://github.com/user-attachments/assets/4df84f22-e6bd-4638-b3de-76e214f01a93" /># 👋 Hi, I'm Franco Nicolás Pagano  
 
 💻 Full-Stack Developer with 3+ years of experience building scalable web applications.  
 🚀 Specialized in **React.js, Next.js, Node.js, Java, SQL and NestJS*.  
@@ -35,6 +35,11 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ---
 
