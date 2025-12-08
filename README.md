@@ -1,4 +1,4 @@
-<img width="190" height="233" alt="{FDD2F3FA-D99F-471B-A4F9-0817549DC7EE}" src="https://github.com/user-attachments/assets/4df84f22-e6bd-4638-b3de-76e214f01a93" /># 👋 Hi, I'm Franco Nicolás Pagano  
+# 👋 Hi, I'm Franco Nicolás Pagano  
 
 💻 Full-Stack Developer with 3+ years of experience building scalable web applications.  
 🚀 Specialized in **React.js, Next.js, Node.js, Java, SQL and NestJS*.  
