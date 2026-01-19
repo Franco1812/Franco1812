@@ -50,6 +50,6 @@
 
 ## 📊 GitHub Stats  
 
-![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
+![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franco1812&show_icons=true&theme=radical)
 
 
