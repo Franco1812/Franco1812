@@ -46,5 +46,10 @@
 ## 📫 Contact  
 
 - ✉️ **franco.pagano66@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/franco-pagano66/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/franco-pagano66/)
+
+## 📊 GitHub Stats  
+
+![Franco's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
+
 
