@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Franco Nicolás Pagano  
 
-💻 Full-Stack Developer with 3+ years of experience building scalable web applications.  
+💻 Software Engineer with 3+ years of experience building scalable web applications.  
 🚀 Specialized in **React.js, Next.js, Node.js, Java, SQL and NestJS*.  
 📍 Based in Buenos Aires, Argentina  
 
