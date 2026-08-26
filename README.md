@@ -13,7 +13,7 @@
 
 👂 My name is: Franco,  
 👨 Pronouns: He/Him,  
-⚡ I'm: 22 years old,                                                                  
+⚡ I'm: 24 years old,                                                                  
 🌱 I’m currently learning: C++,  
 ❤️ I love: Coffee and monster energy,  
 💻 Favorite stack: TypeScript + React + Node.js  
